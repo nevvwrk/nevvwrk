@@ -1,19 +1,31 @@
  ## Hi there 👋 I'm watcharakorn Live in Thailand.
 🌱 I’m currently learning computer science in thailand.<br>
-###  Skill 
+### Skill 
+⚡ HTML , CSS3 , Javascript<br>
+⚡ Java<br>
+⚡ SQL<br>
+
+### Interested
+✨ Golang
+✨ Dart (flutter)
+✨ Python
 
 
 <details>
 <summary>Contact</summary>
  <br>
  <img src="https://user-images.githubusercontent.com/65608669/152331240-2d33c7f5-a547-4e22-9416-b730cec67891.png" width="20" height="20"/>
- <a href="https://www.facebook.com/nevv.wrk">Watcharakorn inrapsert</a>
+ <a href="https://www.facebook.com/nevv.wrk" target="_blank">Watcharakorn inrapsert</a>
  </span>
  <br>
  <span>
  <img src="https://user-images.githubusercontent.com/65608669/152339992-27d7e798-71fd-4ebb-a7d3-24654c65f4c8.png" width="20" height="20">
- <a href="https://www.instagram.com/nevvwrk/">nevvwrk</a>
+ <a href="https://www.instagram.com/nevvwrk/" target="_blank">nevvwrk</a>
  </span>
+ <br>
+ <span>
+ 🌎 <a href="https://nevvwrk.github.io">nevvwrk website</a>
+</span>
 </details>
 
 
@@ -40,6 +52,17 @@ Here are some ideas to get you started:
 - ⚡	:zap:
 - ✨	:sparkles:
 - 📙	:orange_book:
+- 📁	:file_folder:
+- 🔒	:lock:
+- 🔑	:key:
+- 🔴	:red_circle:
+- 🟠	:orange_circle:
+- 🟡	:yellow_circle:
+- 🟢	:green_circle:
+- 🚩	:triangular_flag_on_post:
+- 🌐 :globe_with_meridians:
+- 🌎 :earth_americas:
+- 🇹🇭	:thailand:
 - IG : ![image](https://user-images.githubusercontent.com/65608669/152338608-187bb311-7fad-48d2-a076-17bc228eadf3.png)
 - twich : ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 - drop down :
