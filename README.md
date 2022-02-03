@@ -1,12 +1,20 @@
  ## Hi there 👋 I'm watcharakorn Live in Thailand.
 🌱 I’m currently learning computer science in thailand.<br>
-### Contact
-<span>
-  <img src="https://user-images.githubusercontent.com/65608669/152331240-2d33c7f5-a547-4e22-9416-b730cec67891.png" width="20" height="20"/>
-  <a href="https://www.facebook.com/nevv.wrk">Watcharakorn inrapsert</a>
- </span>
- <details>
+###  Skill 
 
+
+<details>
+<summary>Contact</summary>
+ <br>
+ <img src="https://user-images.githubusercontent.com/65608669/152331240-2d33c7f5-a547-4e22-9416-b730cec67891.png" width="20" height="20"/>
+ <a href="https://www.facebook.com/nevv.wrk">Watcharakorn inrapsert</a>
+ </span>
+ <br>
+ <span>
+ <img src="https://user-images.githubusercontent.com/65608669/152339992-27d7e798-71fd-4ebb-a7d3-24654c65f4c8.png" width="20" height="20">
+ <a href="https://www.instagram.com/nevvwrk/">nevvwrk</a>
+ </span>
+</details>
 
 
 <!--
@@ -22,17 +30,29 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🎯 :dart:
+- ✅ :white_check_mark:
+-	🔲 :black_square_button:
+- 🔳 :white_square_button:
+- 📌 :pushpin:
+- 🔗 :link:
+- 🌈	:rainbow:
+- ⚡	:zap:
+- ✨	:sparkles:
+- 📙	:orange_book:
 - IG : ![image](https://user-images.githubusercontent.com/65608669/152338608-187bb311-7fad-48d2-a076-17bc228eadf3.png)
 - twich : ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 - drop down :
- <summary>Heading</summary>
- <ul>
- <li> markdown list 1</li>
- <ul>
- <li> nested list 1</li>
- <li> nested list 2</li>
- </ul>
- <li> markdown list 2</li>
- </ul>
- </details>
+    <details>
+    <summary>Heading</summary>
+    <ul>
+    <li> markdown list 1</li>
+    <ul>
+    <li> nested list 1</li>
+    <li> nested list 2</li>
+    </ul>
+    <li> markdown list 2</li>
+    </ul>
+    </details>
+
 -->
