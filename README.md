@@ -1,5 +1,8 @@
- ### Hi there 👋
-🌱 I’m currently learning computer science in thailand.
+ ## Hi there 👋 I'm watcharakorn Live in Thailand.
+🌱 I’m currently learning computer science in thailand.<br>
+### Contact
+<img src="https://user-images.githubusercontent.com/65608669/152331240-2d33c7f5-a547-4e22-9416-b730cec67891.png" width="25" height="25"/>
+<a href="https://www.facebook.com/nevv.wrk">Watcharakorn inrapsert</a>
 
 <!--
 **nevvwrk/nevvwrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
