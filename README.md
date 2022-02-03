@@ -24,7 +24,12 @@
  </span>
  <br>
  <span>
- 🌎 <a href="https://nevvwrk.github.io">nevvwrk website</a>
+ <img src="https://user-images.githubusercontent.com/65608669/152346795-082f009a-5f68-40cf-aaa1-8d62f59f6d61.png" width="20" height="20">
+ <a href="www.youtube.com/nevvwrk">nevvwrk</a>
+</span>
+ <br>
+ <span>
+ 🌎 <a href="https://nevvwrk.github.io">nevvwrk</a>
 </span>
 </details>
 
