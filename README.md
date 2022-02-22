@@ -1,5 +1,6 @@
- ## Hi there 👋 I'm watcharakorn Live in Thailand.
+ ## Hi there 👋 I'm Junior Developer Live in Thailand.
 🌱 I’m currently learning computer science in thailand.<br>
+😄 Name :  Watcharakorn or can call me New. 23 Years old.<br>
 ### Skill 
 ⚡ HTML , CSS3 , Javascript<br>
 ⚡ Java<br>
