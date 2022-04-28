@@ -7,10 +7,9 @@
 ⚡ SQL<br>
 
 ### Interested
-✨ Golang
+✨ PHP
 ✨ Dart (flutter)
 ✨ Python
-✨ PHP
 
 <details>
 <summary>Contact</summary>
