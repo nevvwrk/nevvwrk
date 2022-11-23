@@ -9,7 +9,7 @@
 
 ### Interested
 ✨ PHP
-✨ Dart (flutter)
+✨ NodeJS
 ✨ Python
 
 <details>
