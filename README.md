@@ -10,7 +10,7 @@
 ### Interested
 ✨ PHP
 ✨ NodeJS
-✨ Python
+✨ Golang
 
 <details>
 <summary>Contact</summary>
