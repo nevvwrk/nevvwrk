@@ -4,7 +4,7 @@
 ### Skill 
 ⚡ HTML , CSS3 , Javascript<br>
 ⚡ Reactjs<br>
-⚡ Java<br>
+⚡ Java (Basic)<br>
 ⚡ SQL<br>
 
 ### Interested
