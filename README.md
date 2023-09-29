@@ -1,6 +1,5 @@
- ## Hi there 👋 I'm Front-end Developer Live in Thailand.
+ ## Hi there 👋 I'm Web developer Live in Thailand.
 🌱 I’m currently learning computer science in thailand.<br>
-😄 Name :  Watcharakorn or can call me New. 23 Years old.<br>
 ### Skill 
 ⚡ HTML , CSS3 , Javascript<br>
 ⚡ Reactjs<br>
