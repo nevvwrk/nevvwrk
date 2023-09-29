@@ -1,5 +1,5 @@
  ## Hi there 👋 I'm Web developer Live in Thailand.
-🌱 I’m currently learning computer science in thailand.<br>
+🌱 I’m studied in computerscience<br>
 ### Skill 
 ⚡ HTML , CSS3 , Javascript<br>
 ⚡ Reactjs<br>
