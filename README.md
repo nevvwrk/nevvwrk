@@ -1,4 +1,4 @@
- ## Hi there 👋 I'm Front-end developer Live in Thailand.
+ ## Hi these 👋 I'm Front-end developer Live in Thailand.
 🌱 I’m studied in computerscience and I'm freelance with technologies below<br>
 ### Skill 
 ⚡ HTML , CSS3 , Javascript<br>
