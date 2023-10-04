@@ -11,32 +11,8 @@
 ✨ NodeJS
 ✨ Golang
 
-<details>
-<summary>Contact</summary>
- <br>
- <img src="https://user-images.githubusercontent.com/65608669/152331240-2d33c7f5-a547-4e22-9416-b730cec67891.png" width="20" height="20"/>
- <a href="https://www.facebook.com/nevv.wrk" target="_blank">Watcharakorn inrapsert</a>
- </span>
- <br>
- <span>
- <img src="https://user-images.githubusercontent.com/65608669/152339992-27d7e798-71fd-4ebb-a7d3-24654c65f4c8.png" width="20" height="20">
- <a href="https://www.instagram.com/nevvwrk/" target="_blank">nevvwrk</a>
- </span>
- <br>
- <span>
- <img src="https://user-images.githubusercontent.com/65608669/152346795-082f009a-5f68-40cf-aaa1-8d62f59f6d61.png" width="20" height="20">
- <a href="www.youtube.com/nevvwrk">nevvwrk</a>
- </span>
- <br>
- <span>
- <img src="https://user-images.githubusercontent.com/65608669/152348094-62931348-4170-4ecf-b110-bfcd169c6372.png" width="20" height="20">
- <a href="https://discord.gg/7x3cpNgSvg">Discord</a>
-</span>
-<br>
- <span>
-🌎 <a href="https://nevvwrk.github.io">https://nevvwrk.github.io/</a>
- </span>
-</details>
+### You can contact to me..
+wrk.inps@gmail.com
 
 
 <!--
