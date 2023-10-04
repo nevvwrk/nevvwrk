@@ -3,7 +3,7 @@
 ### Skill 
 ⚡ HTML , CSS3 , Javascript<br>
 ⚡ Reactjs<br>
-⚡ Java (Basic)<br>
+⚡ Java (Basic , OOP)<br>
 ⚡ SQL<br>
 
 ### Interested
