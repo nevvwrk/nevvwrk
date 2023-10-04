@@ -5,6 +5,7 @@
 ⚡ Reactjs<br>
 ⚡ Java (Basic , OOP)<br>
 ⚡ SQL<br>
+⚡ Python (basic , not interest)
 
 ### Interested
 ✨ PHP
