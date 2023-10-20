@@ -6,7 +6,6 @@
 ⚡ Typescript<br>
 ⚡ Reactjs<br>
 ⚡ Java (Basic , OOP)<br>
-⚡ Python (basic , not interest)<br>
 ⚡ MYSQL<br>
 ⚡ MSSQL<br>
 ⚡ Postgresql (learning)
