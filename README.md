@@ -1,11 +1,15 @@
  ## Hi these 👋 I'm Front-end developer Live in Thailand.
 🌱 I’m studied in computerscience and I'm freelance with technologies below<br>
 ### Skills 
-⚡ HTML , CSS3 , Javascript<br>
+⚡ HTML , CSS<br>
+⚡ Javascript<br>
+⚡ Typescript<br>
 ⚡ Reactjs<br>
 ⚡ Java (Basic , OOP)<br>
-⚡ SQL<br>
-⚡ Python (basic , not interest)
+⚡ Python (basic , not interest)<br>
+⚡ MYSQL<br>
+⚡ MSSQL<br>
+⚡ Postgresql (learning)
 
 ### Interested
 ✨ PHP
