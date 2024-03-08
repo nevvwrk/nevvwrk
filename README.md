@@ -5,7 +5,7 @@
 ⚡ Javascript<br>
 ⚡ Typescript<br>
 ⚡ Reactjs<br>
-⚡ Java (Basic , OOP)<br>
+⚡ Java (Basic , OOP, Javaswing)<br>
 ⚡ MYSQL<br>
 ⚡ MSSQL<br>
 ⚡ Postgresql (learning)
