@@ -11,8 +11,6 @@
 ⚡ Postgresql (learning)
 
 ### Interested
-✨ PHP
-✨ NodeJS
 ✨ Golang
 
 ### You can contact to me..
