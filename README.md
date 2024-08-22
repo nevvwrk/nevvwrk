@@ -10,9 +10,8 @@
 ⚡ MSSQL<br>
 ⚡ Postgresql (learning)
 
-### Interested
-✨ Golang
-
+### interesting
+✨ Improve Java
 ### You can contact to me..
 📫 wrk.inps@gmail.com<br>
 <a href="https://discord.gg/dny9TNxydY">Discord</a>
