@@ -8,7 +8,6 @@
 ⚡ Java (Basic , OOP, Javaswing)<br>
 ⚡ MYSQL<br>
 ⚡ MSSQL<br>
-⚡ Postgresql (learning)
 
 ### interesting
 ✨ Improve Java because java is challenge for me
