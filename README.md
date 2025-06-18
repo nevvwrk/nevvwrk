@@ -10,7 +10,7 @@
 ⚡ MSSQL<br>
 
 ### interesting
-✨ Improve Java because java is challenge for me
+✨ Python
 ### You can contact to me..
 📫 wrk.inps@gmail.com<br>
 <a href="https://discord.gg/dny9TNxydY">Discord</a>
