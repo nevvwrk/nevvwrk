@@ -5,9 +5,9 @@
 ⚡ Javascript<br>
 ⚡ Typescript<br>
 ⚡ Reactjs<br>
-⚡ Java (Basic , OOP, Javaswing)<br>
+⚡ Nextjs<br>
 ⚡ MYSQL<br>
-⚡ MSSQL<br>
+⚡ Postgresql<br>
 
 ### interesting
 ✨ Python
