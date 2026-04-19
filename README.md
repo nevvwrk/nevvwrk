@@ -13,7 +13,7 @@
 ✨ iot system
 ✨ machine learning
 ### You can contact to me..
-📫 wrk.inps@gmail.com<br>
+Email : 📫 wrk.inps@gmail.com<br>
 
 
 
