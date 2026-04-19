@@ -10,10 +10,11 @@
 ⚡ Postgresql<br>
 
 ### interesting
-✨ Python
+✨ iot system
+✨ machine learning
 ### You can contact to me..
 📫 wrk.inps@gmail.com<br>
-<a href="https://discord.gg/dny9TNxydY">Discord</a>
+
 
 
 <!--
