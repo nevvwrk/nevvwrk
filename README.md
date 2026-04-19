@@ -1,5 +1,5 @@
  ## Hi these 👋 I'm Front-end developer Live in Thailand.
-🌱 I’m studied in computerscience bachelor degree and I'm freelance with technologies this below<br>
+🌱 I’m web developer | freelancer
 ### Skills 
 ⚡ HTML , CSS<br>
 ⚡ Javascript<br>
