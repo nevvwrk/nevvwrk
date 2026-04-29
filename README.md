@@ -1,4 +1,4 @@
- ## Hi these 👋 I am from thailand developer
+ ## Hi👋 I am fullstack developer
 🌱 I’m web developer | freelancer
 ### Skills 
 ⚡ HTML , CSS<br>
